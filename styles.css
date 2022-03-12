@@ -1,0 +1,37 @@
+* {
+    font-family: Verdana, 'Times New Roman', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #FF5F5F;
+    font-size: 50px;
+}
+
+h2 {
+    color: #212427;
+    font-size: 40px;
+}
+
+div, .list {
+    font-size: 25px
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 440px;
+}
+
+.link {
+    font-size: 32px;
+}
+
+h1.homepage {
+    font-size: 70px;
+}
+
+.list.homepage {
+    font-size: 35px;
+}
