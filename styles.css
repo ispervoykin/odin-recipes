@@ -3,35 +3,49 @@
     text-align: center;
 }
 
-h1 {
-    color: #FF5F5F;
-    font-size: 50px;
-}
-
 h2 {
     color: #212427;
-    font-size: 40px;
+    font-size: 45px;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
-div, .list {
-    font-size: 25px
+li {
+    padding: 15px;
+}
+
+.text {
+    font-size: 25px;
 }
 
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 440px;
+    margin: 40px auto;
+    height: 440px;
+    width: auto;
 }
 
 .link {
-    font-size: 32px;
-}
-
-h1.homepage {
-    font-size: 70px;
-}
-
-.list.homepage {
     font-size: 35px;
+    margin-top: 75px;
+    margin-bottom: -75px;
+}
+
+.title_main {
+    font-size: 80px;
+    color: rgb(245, 89, 89);
+    margin-bottom: 150px;
+}
+
+.title_recipes {
+    font-size: 60px;
+    color: orange;
+}
+
+.recipes {
+    background-color: rgb(180, 253, 255);
+    font-size: 35px;
+    margin: 35px;
+    padding-top: 30px;
+    padding-bottom: 50px;
 }
